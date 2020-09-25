@@ -1,13 +1,13 @@
 body
 
 {
-background: white;
-color: rgba(240, 238, 238, 0);
-text-align: left;
-font-family: Arial;
-font-size: 16px;
-margin: 0%;
-padding: 0;
+    background: #1e1f24;
+    color: #333;
+    text-align: left;
+    font-family: Arial;
+    font-size: 16px;
+    margin: 0%;
+    padding: 0;
 
 }
 
